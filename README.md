@@ -16,7 +16,7 @@
 
 **[NetEase CloudMusic Homepage  (网易云音乐)](https://music.163.com/#/artist?id=52253597)**
 
-![bilibili](https://stats.justsong.cn/api/bilibili/?id=349124347&theme=dark) ![力扣数据](https://stats.justsong.cn/api/leetcode?username=RS2002&cn=true&theme=dark)
+![bilibili](https://stats.justsong.cn/api/bilibili/?id=349124347&theme=dark)
 
 
 
@@ -28,7 +28,7 @@
 
 <!--
 **RS2002/RS2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+ ![力扣数据](https://stats.justsong.cn/api/leetcode?username=RS2002&cn=true&theme=dark)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
