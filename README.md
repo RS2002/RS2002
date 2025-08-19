@@ -14,10 +14,3 @@
 
 **[Google Scholar Homepage‬](https://scholar.google.com/citations?user=XkA3qCcAAAAJ&hl=zh-CN)**
 
-
-
-### Visitor Count Since 2024 🔭
-
-![Visitor Count](https://profile-counter.glitch.me/RS2002/count.svg)
-
-
