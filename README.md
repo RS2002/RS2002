@@ -9,6 +9,7 @@
 #### A. Transportation Reinforcement Learning
 
 1. **Algorithm Discrimination:** 
+
    **[Assignment-Net, PPO-DQN]** [Discriminatory Order Assignment and Payment-Setting on Food-Delivery Platforms: A Multi-Action and Multi-Agent Reinforcement Learning Framework](https://github.com/RS2002/Discriminatory-Food-Delivery)
 
    **[Heterogeneous Assignment-Net, PPO-KL-CLIP, Multi-LoRA]** [The Impacts of Data Privacy Regulations on Food-Delivery Platforms **(Transportation Research Part C)**](https://github.com/RS2002/GDPR-Food-Delivery)
@@ -63,19 +64,24 @@
 
 #### D. Others
 
-1. **LLM/NLP:**
+1. **LLM/NLP:** 
+
    **[Confident RAG, Mixture-Embedding RAG]** [Each to Their Own: Exploring the Optimal Embedding in RAG](https://github.com/RS2002/Confident-RAG)
    [Customized-OpenCompass-API](https://github.com/RS2002/Customized-OpenCompass-API)
-2. **Time Series:**
+
+2. **Time Series:** 
+
    **[ARL]** [Modelling the 5G Energy Consumption using Real-world Data: Energy Fingerprint is All You Need **(IEEE GLOBECOM WKSHPS 2025)**](https://github.com/RS2002/ARL)
+
    [Label Unbalance in High-frequency Trading **(Technical Report)**](https://github.com/RS2002/Label-Unbalance-in-High-Frequency-Trading)
+
 3. **Reinforcement Learning**:
+
    **[ARS-Bezier]** [A Trajectory-based Reinforcement Learning Approach for Autonomous Locomotion of a Rat Robot **(Technical Report)**](https://github.com/RS2002/ARS-Bezier)
+
    [Motion Control Method for Small Quadruped Robots Based on Trajectory Modulation and Reinforcement Learning **(SYSU Bachelor Thesis 2024)**](https://github.com/RS2002/RL-Rat)
 
 ​	
-
-
 
 ### Datasets
 
