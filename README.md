@@ -40,7 +40,7 @@
 
    **[Lo-Fi]** [LoFi: Vision-Aided Label Generator for Wi-Fi Localization and Tracing **(IEEE GLOBECOM WKSHPS 2025)**](https://github.com/RS2002/LoFi)
 
-   [ESP32-Realtime-System: A Realtime Wi-Fi Sensing System Demo](https://github.com/RS2002/ESP32-Realtime-System)
+   **[ESP32 Demo]** [ESP32-Realtime-System: A Realtime Wi-Fi Sensing System Demo](https://github.com/RS2002/ESP32-Realtime-System)
 
 
 
@@ -54,7 +54,7 @@
 
    **[PianoBART]** [PianoBART: Symbolic Piano Music Understanding and Generating with Large-Scale Pre-Training **(IEEE ICME 2024)**](https://github.com/RS2002/PianoBart)
 
-   [Zero-Effort Image-to-Music Generation: An Interpretable RAG-Based VLM Approach](https://github.com/RS2002/Image2Music)
+   **[I2M-VLM]** [Zero-Effort Image-to-Music Generation: An Interpretable RAG-Based VLM Approach](https://github.com/RS2002/Image2Music)
 
 3. **Stage Light Control:**
 
@@ -67,19 +67,19 @@
 1. **LLM/NLP:** 
 
    **[Confident RAG, Mixture-Embedding RAG]** [Each to Their Own: Exploring the Optimal Embedding in RAG](https://github.com/RS2002/Confident-RAG)
-   [Customized-OpenCompass-API](https://github.com/RS2002/Customized-OpenCompass-API)
+   **[OpenCompass Tool]** [Customized-OpenCompass-API](https://github.com/RS2002/Customized-OpenCompass-API)
 
 2. **Time Series:** 
 
    **[ARL]** [Modelling the 5G Energy Consumption using Real-world Data: Energy Fingerprint is All You Need **(IEEE GLOBECOM WKSHPS 2025)**](https://github.com/RS2002/ARL)
 
-   [Label Unbalance in High-frequency Trading **(Technical Report)**](https://github.com/RS2002/Label-Unbalance-in-High-Frequency-Trading)
+   **[DL4Finance]** [Label Unbalance in High-frequency Trading **(Technical Report)**](https://github.com/RS2002/Label-Unbalance-in-High-Frequency-Trading)
 
 3. **Reinforcement Learning**:
 
    **[ARS-Bezier]** [A Trajectory-based Reinforcement Learning Approach for Autonomous Locomotion of a Rat Robot **(Technical Report)**](https://github.com/RS2002/ARS-Bezier)
 
-   [Motion Control Method for Small Quadruped Robots Based on Trajectory Modulation and Reinforcement Learning **(SYSU Bachelor Thesis 2024)**](https://github.com/RS2002/RL-Rat)
+   **[PPO4Rat]** [Motion Control Method for Small Quadruped Robots Based on Trajectory Modulation and Reinforcement Learning **(SYSU Bachelor Thesis 2024)**](https://github.com/RS2002/RL-Rat)
 
 ​	
 
