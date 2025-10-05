@@ -20,8 +20,6 @@
 
    **[OSPO]** [One Step is Enough: Multi-Agent Reinforcement Learning based on One-Step Policy Optimization for Order Dispatch on Ride-Sharing Platforms](https://github.com/RS2002/OSPO)
 
-
-
 #### B. Wireless Sensing
 
 1. **Cross-Domain Wi-Fi Sensing:**
@@ -42,8 +40,6 @@
 
    **[ESP32 Demo]** [ESP32-Realtime-System: A Realtime Wi-Fi Sensing System Demo](https://github.com/RS2002/ESP32-Realtime-System)
 
-
-
 #### C. Music Information Retrieval
 
 1. **Music Understanding:**
@@ -60,13 +56,12 @@
 
    **[Skip-BART]** [Automatic Stage Lighting Control: Is it a Rule-Driven Process or Generative Task?](https://github.com/RS2002/Skip-BART)
 
-
-
 #### D. Others
 
 1. **LLM/NLP:** 
 
    **[Confident RAG, Mixture-Embedding RAG]** [Each to Their Own: Exploring the Optimal Embedding in RAG](https://github.com/RS2002/Confident-RAG)
+
    **[OpenCompass Tool]** [Customized-OpenCompass-API](https://github.com/RS2002/Customized-OpenCompass-API)
 
 2. **Time Series:** 
@@ -80,8 +75,6 @@
    **[ARS-Bezier]** [A Trajectory-based Reinforcement Learning Approach for Autonomous Locomotion of a Rat Robot **(Technical Report)**](https://github.com/RS2002/ARS-Bezier)
 
    **[PPO4Rat]** [Motion Control Method for Small Quadruped Robots Based on Trajectory Modulation and Reinforcement Learning **(SYSU Bachelor Thesis 2024)**](https://github.com/RS2002/RL-Rat)
-
-​	
 
 ### Datasets
 
