@@ -10,9 +10,9 @@
 
 1. **Algorithm Discrimination:** 
 
-   **[Assignment-Net, PPO-DQN]** [Discriminatory Order Assignment and Payment-Setting on Food-Delivery Platforms: A Multi-Action and Multi-Agent Reinforcement Learning Framework](https://github.com/RS2002/Discriminatory-Food-Delivery)
-
    **[Heterogeneous Assignment-Net, PPO-KL-CLIP, Multi-LoRA]** [The Impacts of Data Privacy Regulations on Food-Delivery Platforms **(Transportation Research Part C)**](https://github.com/RS2002/GDPR-Food-Delivery)
+
+   **[Assignment-Net, PPO-DQN]** [Discriminatory Order Assignment and Payment-Setting on Food-Delivery Platforms: A Multi-Action and Multi-Agent Reinforcement Learning Framework](https://github.com/RS2002/Discriminatory-Food-Delivery)
 
 2. **Order Assignment:**
 
@@ -38,7 +38,7 @@
 
    **[Lo-Fi]** [LoFi: Vision-Aided Label Generator for Wi-Fi Localization and Tracing **(IEEE GLOBECOM WKSHPS 2025)**](https://github.com/RS2002/LoFi)
 
-   **[ESP32 Demo]** [ESP32-Realtime-System: A Realtime Wi-Fi Sensing System Demo](https://github.com/RS2002/ESP32-Realtime-System)
+   **[ESP32 Demo]** [ESP32-Realtime-System: A Realtime Wi-Fi Sensing System Demo **(Tool)**](https://github.com/RS2002/ESP32-Realtime-System)
 
 #### C. Music Information Retrieval
 
@@ -50,7 +50,7 @@
 
    **[PianoBART]** [PianoBART: Symbolic Piano Music Understanding and Generating with Large-Scale Pre-Training **(IEEE ICME 2024)**](https://github.com/RS2002/PianoBart)
 
-   **[I2M-VLM]** [Zero-Effort Image-to-Music Generation: An Interpretable RAG-Based VLM Approach](https://github.com/RS2002/Image2Music)
+   **[Image2Music]** [Zero-Effort Image-to-Music Generation: An Interpretable RAG-Based VLM Approach](https://github.com/RS2002/Image2Music)
 
 3. **Stage Light Control:**
 
@@ -62,7 +62,7 @@
 
    **[Confident RAG, Mixture-Embedding RAG]** [Each to Their Own: Exploring the Optimal Embedding in RAG](https://github.com/RS2002/Confident-RAG)
 
-   **[OpenCompass Tool]** [Customized-OpenCompass-API](https://github.com/RS2002/Customized-OpenCompass-API)
+   **[OpenCompass Tool]** [Customized-OpenCompass-API **(Tool)**](https://github.com/RS2002/Customized-OpenCompass-API)
 
 2. **Time Series:** 
 
@@ -83,3 +83,7 @@
 3. [WiCount](https://huggingface.co/datasets/RS2002/WiCount): Wi-Fi Crowd Counting Dataset
 4. [LoFi](https://huggingface.co/datasets/RS2002/LoFi): Wi-Fi Localization (Tracking) Dataset (including person ID)
 5. [RPMC-L2](https://huggingface.co/datasets/RS2002/RPMC-L2): Stage Lighting Control Dataset
+
+### Friendly Links
+
+​	**[DREAM]** [Towards Advanced Mathematical Reasoning for LLMs via First-Order Logic Theorem Proving **(EMNLP 2025)**](https://github.com/chuxuecao/dream-fol-prover)
