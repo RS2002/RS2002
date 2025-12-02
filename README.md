@@ -1,24 +1,26 @@
 ### Welcome to My GitHub 👋   
 
-​                                                                                  ![ZZJ's GitHub stats](https://github-readme-stats.vercel.app/api?username=RS2002&theme=tokyonight&rank_icon=percentile)       
-
-
+![ZZJ's GitHub stats](https://github-readme-stats.vercel.app/api?username=RS2002&theme=tokyonight&rank_icon=percentile)       
 
 ### Projects
 
-#### A. Transportation Reinforcement Learning
+#### A. Intelligent Transportation
 
-1. **Algorithm Discrimination:** 
+1. **Algorithm Discrimination (MARL):** 
 
-   **[Heterogeneous Assignment-Net, PPO-KL-CLIP, Multi-LoRA]** [The Impacts of Data Privacy Regulations on Food-Delivery Platforms **(Transportation Research Part C)**](https://github.com/RS2002/GDPR-Food-Delivery)
+   **[Heterogeneous Assignment-Net, PPO-KL-CLIP, Multi-LoRA]** [The Impacts of Data Privacy Regulations on Food-Delivery Platforms **(Transportation Research Part C / AAAI-DC 2026)**](https://github.com/RS2002/GDPR-Food-Delivery)
 
    **[Assignment-Net, PPO-DQN]** [Discriminatory Order Assignment and Payment-Setting on Food-Delivery Platforms: A Multi-Action and Multi-Agent Reinforcement Learning Framework](https://github.com/RS2002/Discriminatory-Food-Delivery)
 
-2. **Order Assignment:**
+2. **Order Assignment (DRL/MARL):**
 
    **[Triple-BERT]** [Triple-BERT: Do We Really Need MARL for Order Dispatch on Ride-Sharing Platforms?](https://github.com/RS2002/Triple-BERT)
 
    **[OSPO]** [One Step is Enough: Multi-Agent Reinforcement Learning based on One-Step Policy Optimization for Order Dispatch on Ride-Sharing Platforms](https://github.com/RS2002/OSPO)
+
+3. **Traffic Time Series (Federated Learning):**
+
+4. **Route Planning:**
 
 #### B. Wireless Sensing
 
@@ -30,7 +32,7 @@
 
 2. **CSI Time Series:**
 
-   **[CSI-BERT2]** [CSI-BERT2: A BERT-Inspired Framework for Efficient CSI Prediction and Recognition in Wireless Communication and Sensing](https://github.com/RS2002/CSI-BERT2)
+   **[CSI-BERT2]** [CSI-BERT2: A BERT-Inspired Framework for Efficient CSI Prediction and Recognition in Wireless Communication and Sensing **(IEEE TMC)**](https://github.com/RS2002/CSI-BERT2)
 
    **[CSI-BERT]** [Finding the Missing Data: A BERT-inspired Approach Against Package Loss in Wireless Sensing **(IEEE INFOCOM WKSHPS 2024)**](https://github.com/RS2002/CSI-BERT)
 
