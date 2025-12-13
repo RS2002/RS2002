@@ -28,7 +28,7 @@
 
    **[CrossFi, CSi-Net, Weight-Net]** [CrossFi: A Cross Domain Wi-Fi Sensing Framework Based on Siamese Network **(IEEE IOTJ)**](https://github.com/RS2002/CrossFi)
 
-   **[KNN-MMD]** [KNN-MMD: Cross Domain Wireless Sensing via Local Distribution Alignment **(IEEE ICCC 2025)**](https://github.com/RS2002/KNN-MMD)
+   **[KNN-MMD]** [KNN-MMD: Cross Domain Wireless Sensing via Local Distribution Alignment **(IEEE TMC / IEEE ICCC 2025)**](https://github.com/RS2002/KNN-MMD)
 
 2. **CSI Time Series:**
 
