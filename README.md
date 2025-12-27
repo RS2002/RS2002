@@ -10,7 +10,7 @@
 
    **[Heterogeneous Assignment-Net, PPO-KL-CLIP, Multi-LoRA]** [The Impacts of Data Privacy Regulations on Food-Delivery Platforms **(Transportation Research Part C / AAAI-DC 2026)**](https://github.com/RS2002/GDPR-Food-Delivery)
 
-   **[Assignment-Net, PPO-DQN]** [Discriminatory Order Assignment and Payment-Setting on Food-Delivery Platforms: A Multi-Action and Multi-Agent Reinforcement Learning Framework](https://github.com/RS2002/Discriminatory-Food-Delivery)
+   **[Assignment-Net, PPO-DQN]** [Discriminatory Order Assignment and Payment-Setting on Food-Delivery Platforms: A Multi-Action and Multi-Agent Reinforcement Learning Framework **(Transportation Research Part E / ISTDM 2025)**](https://github.com/RS2002/Discriminatory-Food-Delivery)
 
 2. **Order Assignment (DRL/MARL):**
 
