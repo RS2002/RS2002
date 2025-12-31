@@ -20,7 +20,7 @@
 
 3. **Traffic Time Series (Federated Learning):**
 
-4. **Route Planning:**
+   **[AutoFed]** [AutoFed: Manual-Free Federated Traffic Prediction via Personalized Prompt](https://github.com/RS2002/AutoFed)
 
 #### B. Wireless Sensing
 
