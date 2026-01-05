@@ -1,6 +1,4 @@
-### Welcome to My GitHub 👋   
-
-![ZZJ's GitHub stats](https://github-readme-stats.vercel.app/api?username=RS2002&theme=tokyonight&rank_icon=percentile)       
+### Welcome to Longino's GitHub 👋   
 
 ### Projects
 
@@ -16,6 +14,8 @@
 
    **[Triple-BERT]** [Triple-BERT: Do We Really Need MARL for Order Dispatch on Ride-Sharing Platforms?](https://github.com/RS2002/Triple-BERT)
 
+   **[MA2SA]** [Centralized Reinforcement Learning for Large-Scale Dynamic Trip-Vehicle Assignment](https://github.com/RS2002/MA2SA)
+
    **[OSPO]** [One Step is Enough: Multi-Agent Reinforcement Learning based on One-Step Policy Optimization for Order Dispatch on Ride-Sharing Platforms](https://github.com/RS2002/OSPO)
 
 3. **Traffic Time Series (Federated Learning):**
@@ -28,17 +28,17 @@
 
    **[CrossFi, CSi-Net, Weight-Net]** [CrossFi: A Cross Domain Wi-Fi Sensing Framework Based on Siamese Network **(IEEE IOTJ)**](https://github.com/RS2002/CrossFi)
 
-   **[KNN-MMD]** [KNN-MMD: Cross Domain Wireless Sensing via Local Distribution Alignment **(IEEE TMC / IEEE ICCC 2025)**](https://github.com/RS2002/KNN-MMD)
+   **[KNN-MMD]** [KNN-MMD: Cross Domain Wireless Sensing via Local Distribution Alignment **(IEEE TMC / ICCC 2025)**](https://github.com/RS2002/KNN-MMD)
 
 2. **CSI Time Series:**
 
    **[CSI-BERT2]** [CSI-BERT2: A BERT-Inspired Framework for Efficient CSI Prediction and Recognition in Wireless Communication and Sensing **(IEEE TMC)**](https://github.com/RS2002/CSI-BERT2)
 
-   **[CSI-BERT]** [Finding the Missing Data: A BERT-inspired Approach Against Package Loss in Wireless Sensing **(IEEE INFOCOM WKSHPS 2024)**](https://github.com/RS2002/CSI-BERT)
+   **[CSI-BERT]** [Finding the Missing Data: A BERT-inspired Approach Against Package Loss in Wireless Sensing **(INFOCOM WKSHPS 2024)**](https://github.com/RS2002/CSI-BERT)
 
 3. **Wi-Fi Sensing System:**
 
-   **[Lo-Fi]** [LoFi: Vision-Aided Label Generator for Wi-Fi Localization and Tracing **(IEEE GLOBECOM WKSHPS 2025)**](https://github.com/RS2002/LoFi)
+   **[LoFi]** [LoFi: Vision-Aided Label Generator for Wi-Fi Localization and Tracing **(GLOBECOM WKSHPS 2025)**](https://github.com/RS2002/LoFi)
 
    **[ESP32 Demo]** [ESP32-Realtime-System: A Realtime Wi-Fi Sensing System Demo **(Tool)**](https://github.com/RS2002/ESP32-Realtime-System)
 
@@ -46,11 +46,11 @@
 
 1. **Music Understanding:**
 
-   **[Adversarial-MidiBERT]** [Let Network Decide What to Learn: Symbolic Music Understanding Model Based on Large-scale Adversarial Pre-training **(ACM ICMR 2025)**](https://github.com/RS2002/Adversarial-MidiBERT)
+   **[Adversarial-MidiBERT]** [Let Network Decide What to Learn: Symbolic Music Understanding Model Based on Large-scale Adversarial Pre-training **(ICMR 2025)**](https://github.com/RS2002/Adversarial-MidiBERT)
 
 2. **Music Generation:**
 
-   **[PianoBART]** [PianoBART: Symbolic Piano Music Understanding and Generating with Large-Scale Pre-Training **(IEEE ICME 2024)**](https://github.com/RS2002/PianoBart)
+   **[PianoBART]** [PianoBART: Symbolic Piano Music Understanding and Generating with Large-Scale Pre-Training **(ICME 2024)**](https://github.com/RS2002/PianoBart)
 
    **[Image2Music]** [Zero-Effort Image-to-Music Generation: An Interpretable RAG-Based VLM Approach](https://github.com/RS2002/Image2Music)
 
@@ -62,13 +62,13 @@
 
 1. **LLM/NLP:** 
 
-   **[Confident RAG, Mixture-Embedding RAG]** [Each to Their Own: Exploring the Optimal Embedding in RAG](https://github.com/RS2002/Confident-RAG)
+   **[Confident RAG, Mixture-Embedding RAG]** [Confident RAG: Enhancing the Performance of LLMs for Mathematics Question Answering through Multi-Embedding and Confidence Scoring](https://github.com/RS2002/Confident-RAG)
 
    **[OpenCompass Tool]** [Customized-OpenCompass-API **(Tool)**](https://github.com/RS2002/Customized-OpenCompass-API)
 
 2. **Time Series:** 
 
-   **[ARL]** [Modelling the 5G Energy Consumption using Real-world Data: Energy Fingerprint is All You Need **(IEEE GLOBECOM WKSHPS 2025)**](https://github.com/RS2002/ARL)
+   **[ARL]** [Modelling the 5G Energy Consumption using Real-world Data: Energy Fingerprint is All You Need **(GLOBECOM WKSHPS 2025)**](https://github.com/RS2002/ARL)
 
    **[DL4Finance]** [Label Unbalance in High-frequency Trading **(Technical Report)**](https://github.com/RS2002/Label-Unbalance-in-High-Frequency-Trading)
 
