@@ -1,5 +1,7 @@
 ### Welcome to Longino's GitHub 👋   
 
+![ZZJ's GitHub stats](https://github-readme-stats.vercel.app/api?username=RS2002&theme=tokyonight&rank_icon=percentile)       
+
 ### Projects
 
 #### A. Intelligent Transportation
@@ -12,7 +14,7 @@
 
 2. **Order Assignment (DRL/MARL):**
 
-   **[Triple-BERT]** [Triple-BERT: Do We Really Need MARL for Order Dispatch on Ride-Sharing Platforms?](https://github.com/RS2002/Triple-BERT)
+   **[Triple-BERT]** [Triple-BERT: Do We Really Need MARL for Order Dispatch on Ride-Sharing Platforms? **(ICLR 2026)**](https://github.com/RS2002/Triple-BERT)
 
    **[MA2SA]** [Centralized Reinforcement Learning for Large-Scale Dynamic Trip-Vehicle Assignment](https://github.com/RS2002/MA2SA)
 
@@ -56,7 +58,7 @@
 
 3. **Stage Light Control:**
 
-   **[Skip-BART]** [Automatic Stage Lighting Control: Is it a Rule-Driven Process or Generative Task?](https://github.com/RS2002/Skip-BART)
+   **[Skip-BART]** [Automatic Stage Lighting Control: Is it a Rule-Driven Process or Generative Task? **(ICLR 2026)**](https://github.com/RS2002/Skip-BART)
 
 #### D. Others
 
