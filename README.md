@@ -2,11 +2,11 @@
 
 ![ZZJ's GitHub stats](https://github-readme-stats.vercel.app/api?username=RS2002&theme=tokyonight&rank_icon=percentile)       
 
-### Projects
+### I. Projects
 
 #### A. Intelligent Transportation
 
-1. **Algorithm Discrimination (MARL):** 
+1. **Algorithmic Discrimination & Order Assignment & Payment Setting (MARL):** 
 
    **[Heterogeneous Assignment-Net, PPO-KL-CLIP, Multi-LoRA]** [The Impacts of Data Privacy Regulations on Food-Delivery Platforms **(Transportation Research Part C / AAAI-DC 2026)**](https://github.com/RS2002/GDPR-Food-Delivery)
 
@@ -16,7 +16,7 @@
 
    **[Triple-BERT]** [Triple-BERT: Do We Really Need MARL for Order Dispatch on Ride-Sharing Platforms? **(ICLR 2026)**](https://github.com/RS2002/Triple-BERT)
 
-   **[MA2SA]** [Centralized Reinforcement Learning for Large-Scale Dynamic Trip-Vehicle Assignment](https://github.com/RS2002/MA2SA)
+   **[MA2SA]** [Beyond Multi‑Agent Reinforcement Learning: Scalable Centralized Control for Large-Scale Dynamic Trip-Vehicle Assignment](https://github.com/RS2002/MA2SA)
 
    **[OSPO]** [One Step is Enough: Multi-Agent Reinforcement Learning based on One-Step Policy Optimization for Order Dispatch on Ride-Sharing Platforms](https://github.com/RS2002/OSPO)
 
@@ -80,7 +80,7 @@
 
    **[PPO4Rat]** [Motion Control Method for Small Quadruped Robots Based on Trajectory Modulation and Reinforcement Learning **(SYSU Bachelor Thesis 2024)**](https://github.com/RS2002/RL-Rat)
 
-### Datasets
+### II. Datasets
 
 1. [WiGesture](https://huggingface.co/datasets/RS2002/WiGesture): Wi-Fi Gesture Recognition Dataset (including person ID)
 2. [WiFall](https://huggingface.co/datasets/RS2002/WiFall): Wi-Fi Fall Detection (Action Recognition) Dataset (including person ID)
@@ -88,6 +88,6 @@
 4. [LoFi](https://huggingface.co/datasets/RS2002/LoFi): Wi-Fi Localization (Tracking) Dataset (including person ID)
 5. [RPMC-L2](https://huggingface.co/datasets/RS2002/RPMC-L2): Stage Lighting Control Dataset
 
-### Friendly Links
+### III. Friendly Links
 
 ​	**[DREAM]** [Towards Advanced Mathematical Reasoning for LLMs via First-Order Logic Theorem Proving **(EMNLP 2025)**](https://github.com/chuxuecao/dream-fol-prover)
