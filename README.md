@@ -91,3 +91,5 @@
 ### III. Friendly Links
 
 ​	**[DREAM]** [Towards Advanced Mathematical Reasoning for LLMs via First-Order Logic Theorem Proving **(EMNLP 2025)**](https://github.com/chuxuecao/dream-fol-prover)
+
+​	**[FLV]**[Pushing the Boundaries of Natural Reasoning: Interleaved Bonus from Formal-Logic Verification in Language Models](https://huggingface.co/chuxuecao/FLV-RL-Qwen2.5-14B)
