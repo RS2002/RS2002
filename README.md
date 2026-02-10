@@ -14,7 +14,7 @@
 
 2. **Order Assignment (DRL/MARL):**
 
-   **[Triple-BERT]** [Triple-BERT: Do We Really Need MARL for Order Dispatch on Ride-Sharing Platforms? **(ICLR 2026)**](https://github.com/RS2002/Triple-BERT)
+   **[Triple-BERT]** [Triple-BERT: Do We Really Need MARL for Order Dispatch on Ride-Sharing Platforms? **(ICLR 2026 oral)**](https://github.com/RS2002/Triple-BERT)
 
    **[MA2SA]** [Beyond Multi‑Agent Reinforcement Learning: Scalable Centralized Control for Large-Scale Dynamic Trip-Vehicle Assignment](https://github.com/RS2002/MA2SA)
 
@@ -52,7 +52,7 @@
 
 2. **Music Generation:**
 
-   **[PianoBART]** [PianoBART: Symbolic Piano Music Understanding and Generating with Large-Scale Pre-Training **(ICME 2024)**](https://github.com/RS2002/PianoBart)
+   **[PianoBART]** [PianoBART: Symbolic Piano Music Understanding and Generating with Large-Scale Pre-Training **(ICME 2024 oral)**](https://github.com/RS2002/PianoBart)
 
    **[Image2Music]** [Zero-Effort Image-to-Music Generation: An Interpretable RAG-Based VLM Approach](https://github.com/RS2002/Image2Music)
 
@@ -92,4 +92,6 @@
 
 ​	**[DREAM]** [Towards Advanced Mathematical Reasoning for LLMs via First-Order Logic Theorem Proving **(EMNLP 2025)**](https://github.com/chuxuecao/dream-fol-prover)
 
-​	**[FLV]**[Pushing the Boundaries of Natural Reasoning: Interleaved Bonus from Formal-Logic Verification in Language Models](https://huggingface.co/chuxuecao/FLV-RL-Qwen2.5-14B)
+​	**[FLV]** [Pushing the Boundaries of Natural Reasoning: Interleaved Bonus from Formal-Logic Verification in Language Models](https://huggingface.co/chuxuecao/FLV-RL-Qwen2.5-14B)
+
+​	**[IfWorld]** [IfWorld: A Multi-Agent Framework for Cross-Disciplinary Counterfactual Scenario Reasoning](https://github.com/CLaSLoVe/If-World)
