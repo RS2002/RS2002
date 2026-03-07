@@ -1,6 +1,4 @@
-### Welcome to Longino's GitHub 👋   
-
-![ZZJ's GitHub stats](https://github-readme-stats.vercel.app/api?username=RS2002&theme=tokyonight&rank_icon=percentile)       
+### Welcome to Longino's GitHub 👋          
 
 ### I. Projects
 
@@ -68,7 +66,7 @@ Thanks to my lab mates from the group of [Prof. Guangxu Zhu](https://sites.googl
 
 1. **LLM/NLP:** 
 
-   **[Confident RAG, Mixture-Embedding RAG]** [Confident RAG: Enhancing the Performance of LLMs for Mathematics Question Answering through Multi-Embedding and Confidence Scoring](https://github.com/RS2002/Confident-RAG)
+   **[Confident RAG, Mixture-Embedding RAG]** [Confident RAG: Enhancing the Performance of LLMs for Mathematics Question Answering through Multi-Embedding and Confidence Scoring **(ICLR WKSHPS 2026)**](https://github.com/RS2002/Confident-RAG)
 
    **[OpenCompass Tool]** [Customized-OpenCompass-API **(Tool)**](https://github.com/RS2002/Customized-OpenCompass-API)
 
@@ -78,7 +76,7 @@ Thanks to my lab mates from the group of [Prof. Guangxu Zhu](https://sites.googl
 
    **[DL4Finance]** [Label Unbalance in High-frequency Trading **(Technical Report)**](https://github.com/RS2002/Label-Unbalance-in-High-Frequency-Trading)
 
-3. **Reinforcement Learning**:
+3. **Robot RL**:
 
    Thanks to [‪Mr. Zitao Zhang](https://scholar.google.com/citations?user=9-qBwHoAAAAJ&hl=en) from the group of [Prof. Kai Huang](https://www.usilab.cn/team/huangkai/), for leading me into academic research at my earliest stage and guiding my bachelor thesis. The codes are all built on his previous work with the robot designed by the group.
 
