@@ -56,27 +56,32 @@ Thanks to my lab mates from the group of [Prof. Guangxu Zhu](https://sites.googl
 
    **[PianoBART]** [PianoBART: Symbolic Piano Music Understanding and Generating with Large-Scale Pre-Training **(ICME 2024 oral)**](https://github.com/RS2002/PianoBart)
 
-   **[Image2Music]** [Zero-Effort Image-to-Music Generation: An Interpretable RAG-Based VLM Approach](https://github.com/RS2002/Image2Music)
+   **[Image2Music]** [Zero-Effort Image-to-Music Generation: An Interpretable RAG-Based VLM Approach **(ICMR 2026)**](https://github.com/RS2002/Image2Music)
 
 3. **Stage Light Control:**
 
    **[Skip-BART]** [Automatic Stage Lighting Control: Is it a Rule-Driven Process or Generative Task? **(ICLR 2026)**](https://github.com/RS2002/Skip-BART)
+   
+   **[SeqLight]** [Stage Light is Sequence²: Multi-Light Control via Imitation Learning](https://github.com/RS2002/SeqLight)
 
 #### D. Others
 
-1. **LLM/NLP:** 
+1. **RL**:
+   **[CMAT]** [Bridging MARL to SARL: An Order-Independent Multi-Agent Transformer via Latent Consensus](https://github.com/RS2002/CMAT)
+
+2. **LLM/NLP:** 
 
    **[Confident RAG, Mixture-Embedding RAG]** [Confident RAG: Enhancing the Performance of LLMs for Mathematics Question Answering through Multi-Embedding and Confidence Scoring **(ICLR WKSHPS 2026)**](https://github.com/RS2002/Confident-RAG)
 
    **[OpenCompass Tool]** [Customized-OpenCompass-API **(Tool)**](https://github.com/RS2002/Customized-OpenCompass-API)
 
-2. **Time Series:** 
+3. **Time Series:** 
 
    **[ARL]** [Modelling the 5G Energy Consumption using Real-world Data: Energy Fingerprint is All You Need **(GLOBECOM WKSHPS 2025)**](https://github.com/RS2002/ARL)
 
    **[DL4Finance]** [Label Unbalance in High-frequency Trading **(Technical Report)**](https://github.com/RS2002/Label-Unbalance-in-High-Frequency-Trading)
 
-3. **Robot RL**:
+4. **Robot RL**:
 
    Thanks to [‪Mr. Zitao Zhang](https://scholar.google.com/citations?user=9-qBwHoAAAAJ&hl=en) from the group of [Prof. Kai Huang](https://www.usilab.cn/team/huangkai/), for leading me into academic research at my earliest stage and guiding my bachelor thesis. The codes are all built on his previous work with the robot designed by the group.
 
