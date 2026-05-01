@@ -20,6 +20,8 @@ Thanks to my lab mates from the group of [Prof. Sen Li](https://www.smartcityhku
 
    **[OSPO]** [One Step is Enough: Multi-Agent Reinforcement Learning based on One-Step Policy Optimization for Order Dispatch on Ride-Sharing Platforms](https://github.com/RS2002/OSPO)
 
+   **[Travel-Route-Recommendation]** [Prediction and Management of Tourist Coach Traffic based on Real-Time GPS Data **(HKSTS Project 2025)**](https://github.com/RS2002/Coach-Fleet-Itinerary-Planning)
+
 3. **Traffic Time Series (Federated Learning):**
 
    **[AutoFed]** [AutoFed: Manual-Free Federated Traffic Prediction via Personalized Prompt](https://github.com/RS2002/AutoFed)
@@ -67,6 +69,7 @@ Thanks to my lab mates from the group of [Prof. Guangxu Zhu](https://sites.googl
 #### D. Others
 
 1. **RL**:
+
    **[CMAT]** [Bridging MARL to SARL: An Order-Independent Multi-Agent Transformer via Latent Consensus](https://github.com/RS2002/CMAT)
 
 2. **LLM/NLP:** 
@@ -102,6 +105,6 @@ Thanks to my lab mates from the group of [Prof. Guangxu Zhu](https://sites.googl
 
 ​	**[DREAM]** [Towards Advanced Mathematical Reasoning for LLMs via First-Order Logic Theorem Proving **(EMNLP 2025)**](https://github.com/chuxuecao/dream-fol-prover)
 
-​	**[FLV]** [Pushing the Boundaries of Natural Reasoning: Interleaved Bonus from Formal-Logic Verification in Language Models](https://huggingface.co/chuxuecao/FLV-RL-Qwen2.5-14B)
+​	**[FLV]** [Pushing the Boundaries of Natural Reasoning: Interleaved Bonus from Formal-Logic Verification in Language Models **(ICML 2026)**](https://huggingface.co/chuxuecao/FLV-RL-Qwen2.5-14B)
 
 ​	**[IfWorld]** [IfWorld: A Multi-Agent Framework for Cross-Disciplinary Counterfactual Scenario Reasoning](https://github.com/CLaSLoVe/If-World)
