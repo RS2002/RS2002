@@ -20,6 +20,10 @@ Thanks to my lab mates from the group of [Prof. Sen Li](https://www.smartcityhku
 
    **[OSPO]** [One Step is Enough: Multi-Agent Reinforcement Learning based on One-Step Policy Optimization for Order Dispatch on Ride-Sharing Platforms](https://github.com/RS2002/OSPO)
 
+   **[Scale-OSPO]** [OSPO: One-Step Policy Optimization for Real-Time Order Assignment on Ride-Sharing Platforms with Autonomous Vehicles](https://github.com/RS2002/Scale-OSPO)
+
+   **[RideGym]** [RideGym: A Standardized Interface for Real-World Large-Scale Ride-Sharing System](https://github.com/RS2002/RideGym)
+
    **[Travel-Route-Recommendation]** [Prediction and Management of Tourist Coach Traffic based on Real-Time GPS Data **(HKSTS Project 2025)**](https://github.com/RS2002/Coach-Fleet-Itinerary-Planning)
 
 3. **Traffic Time Series (Federated Learning):**
@@ -73,6 +77,8 @@ Thanks to my lab mates from the group of [Prof. Guangxu Zhu](https://sites.googl
    **[CMAT]** [Bridging MARL to SARL: An Order-Independent Multi-Agent Transformer via Latent Consensus](https://github.com/RS2002/CMAT)
 
 2. **LLM/NLP:** 
+
+   **[Evo-Denoiser]** [Optimizing Denoising Trajectories in DLLMs: A Lightweight Evolutionary Heuristic Approach](https://github.com/RS2002/Evo-Denoiser)
 
    **[Confident RAG, Mixture-Embedding RAG]** [Confident RAG: Enhancing the Performance of LLMs for Mathematics Question Answering through Multi-Embedding and Confidence Scoring **(ICLR WKSHPS 2026)**](https://github.com/RS2002/Confident-RAG)
 
