@@ -42,15 +42,17 @@ Thanks to my lab mates from the group of [Prof. Guangxu Zhu](https://sites.googl
 
 2. **CSI Time Series:**
 
+   **[CSI-BERT]** [Finding the Missing Data: A BERT-inspired Approach Against Package Loss in Wireless Sensing **(INFOCOM WKSHPS 2024)**](https://github.com/RS2002/CSI-BERT)
+
    **[CSI-BERT2]** [CSI-BERT2: A BERT-Inspired Framework for Efficient CSI Prediction and Recognition in Wireless Communication and Sensing **(IEEE TMC)**](https://github.com/RS2002/CSI-BERT2)
 
-   **[CSI-BERT]** [Finding the Missing Data: A BERT-inspired Approach Against Package Loss in Wireless Sensing **(INFOCOM WKSHPS 2024)**](https://github.com/RS2002/CSI-BERT)
+   **[CSI-BERT3]** [CSI-BERT3: Foundation Model for Wireless Sensing](https://github.com/RS2002/CSI-BERT3)
 
 3. **Wi-Fi Sensing System:**
 
    **[LoFi]** [LoFi: Vision-Aided Label Generator for Wi-Fi Localization and Tracing **(GLOBECOM WKSHPS 2025)**](https://github.com/RS2002/LoFi)
 
-   **[ESP32 Demo]** [ESP32-Realtime-System: A Realtime Wi-Fi Sensing System Demo **(Tool)**](https://github.com/RS2002/ESP32-Realtime-System)
+   **[ESP32 Demo]** [ESP32-Realtime-System: A Realtime Wi-Fi Sensing System Demo **(SRIBD Project 2024)**](https://github.com/RS2002/ESP32-Realtime-System)
 
 #### C. Music Information Retrieval
 
@@ -75,6 +77,8 @@ Thanks to my lab mates from the group of [Prof. Guangxu Zhu](https://sites.googl
 1. **RL**:
 
    **[CMAT]** [Bridging MARL to SARL: An Order-Independent Multi-Agent Transformer via Latent Consensus](https://github.com/RS2002/CMAT)
+
+   **[MAPO]** [Aggregate in the Advantage, Not the Ratio: A Canonical-Form Analysis of Cooperative Multi-Agent Policy Optimization](https://github.com/RS2002/MAPO)
 
 2. **LLM/NLP:** 
 
