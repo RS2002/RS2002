@@ -4,7 +4,7 @@
 
 #### A. Intelligent Transportation
 
-Thanks to my lab mates from the group of [Prof. Sen Li](https://www.smartcityhkust.com/). The order dispatch simulators are built on the code from the previous work of [Mr. Yulong Hu](https://yulonghu2000.github.io/). [Dr. Yitong Shang](https://yitongshang2021.github.io/) provided continuous support in dataset construction.
+Thanks to my lab mates from the group of [Prof. Sen Li](https://www.smartcityhkust.com/). The order dispatch simulators are built on the code from the previous work of [Dr. Yulong Hu](https://yulonghu2000.github.io/). [Dr. Yitong Shang](https://yitongshang2021.github.io/) provided continuous support in dataset construction.
 
 1. **Algorithmic Discrimination & Order Assignment & Payment Setting (MARL):** 
 
@@ -114,3 +114,6 @@ Thanks to my lab mates from the group of [Prof. Guangxu Zhu](https://sites.googl
 ​	**[FLV]** [Pushing the Boundaries of Natural Reasoning: Interleaved Bonus from Formal-Logic Verification in Language Models **(ICML 2026)**](https://huggingface.co/chuxuecao/FLV-RL-Qwen2.5-14B)
 
 ​	**[IfWorld]** [IfWorld: A Multi-Agent Framework for Cross-Disciplinary Counterfactual Scenario Reasoning](https://github.com/CLaSLoVe/If-World)
+
+​	**[LaTex Template]** [Every Author as Every Author](https://github.com/CLaSLoVe/Every-Author-as-Every-Author/tree/main)
+
