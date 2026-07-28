@@ -6,13 +6,13 @@
 
 Thanks to my lab mates from the group of [Prof. Sen Li](https://www.smartcityhkust.com/). The order dispatch simulators are built on the code from the previous work of [Dr. Yulong Hu](https://yulonghu2000.github.io/). [Dr. Yitong Shang](https://yitongshang2021.github.io/) provided continuous support in dataset construction.
 
-1. **Algorithmic Discrimination & Order Assignment & Payment Setting (MARL):** 
+1. **Algorithmic Discrimination & Joint Order Assignment and Payment Setting (MARL):** 
 
    **[Heterogeneous Assignment-Net, PPO-KL-CLIP, Multi-LoRA]** [The Impacts of Data Privacy Regulations on Food-Delivery Platforms **(Transportation Research Part C / AAAI-DC 2026 / TSL 2026)**](https://github.com/RS2002/GDPR-Food-Delivery)
 
    **[Assignment-Net, PPO-DQN]** [Discriminatory Order Assignment and Payment-Setting on Food-Delivery Platforms: A Multi-Action and Multi-Agent Reinforcement Learning Framework **(Transportation Research Part E / ISTDM 2025)**](https://github.com/RS2002/Discriminatory-Food-Delivery)
 
-2. **Order Assignment (DRL/MARL):**
+2. **Order Dispatch (MARL):**
 
    **[Triple-BERT]** [Triple-BERT: Do We Really Need MARL for Order Dispatch on Ride-Sharing Platforms? **(ICLR 2026 oral)**](https://github.com/RS2002/Triple-BERT)
 
@@ -23,6 +23,8 @@ Thanks to my lab mates from the group of [Prof. Sen Li](https://www.smartcityhku
    **[Scale-OSPO]** [OSPO: One-Step Policy Optimization for Real-Time Order Assignment on Ride-Sharing Platforms with Autonomous Vehicles](https://github.com/RS2002/Scale-OSPO)
 
    **[RideGym]** [RideGym: A Standardized Interface for Real-World Large-Scale Ride-Sharing System](https://github.com/RS2002/RideGym)
+
+   **[Pre-Booked Ride-Sharing]** [Real-Time Order Assignment for Ride-Sharing Platforms with a Mixture of Pre-Booked and On-Demand Requests](https://github.com/RS2002/Prebooked-Ride-Sharing)
 
    **[Travel-Route-Recommendation]** [Prediction and Management of Tourist Coach Traffic based on Real-Time GPS Data **(HKSTS Project 2025)**](https://github.com/RS2002/Coach-Fleet-Itinerary-Planning)
 
@@ -72,7 +74,7 @@ Thanks to my lab mates from the group of [Prof. Guangxu Zhu](https://sites.googl
    
    **[SeqLight]** [Stage Light is Sequence²: Multi-Light Control via Imitation Learning](https://github.com/RS2002/SeqLight)
 
-#### D. Others
+#### D. Deep Learning
 
 1. **RL**:
 
