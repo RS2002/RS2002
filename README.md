@@ -31,6 +31,8 @@ Thanks to my lab mates from the group of [Prof. Sen Li](https://www.smartcityhku
 3. **Traffic Time Series (Federated Learning):**
 
    **[AutoFed]** [AutoFed: Manual-Free Federated Traffic Prediction via Personalized Prompt](https://github.com/RS2002/AutoFed)
+   
+   **[AutoFed, MS‑AGCRN]** [Personalized Federated Traffic Prediction via Prompt-Guided Global Representation and Node-Specific Adaptation](https://github.com/RS2002/AutoFed2)
 
 #### B. Wireless Sensing
 
@@ -78,9 +80,11 @@ Thanks to my lab mates from the group of [Prof. Guangxu Zhu](https://sites.googl
 
 1. **RL**:
 
+   **[MAPO]** [Aggregate in the Advantage, Not the Ratio: A Canonical-Form Analysis of Cooperative Multi-Agent Policy Optimization](https://github.com/RS2002/MAPO)
+
    **[CMAT]** [Bridging MARL to SARL: An Order-Independent Multi-Agent Transformer via Latent Consensus](https://github.com/RS2002/CMAT)
 
-   **[MAPO]** [Aggregate in the Advantage, Not the Ratio: A Canonical-Form Analysis of Cooperative Multi-Agent Policy Optimization](https://github.com/RS2002/MAPO)
+   **[k-hop CMAT]** [Sensing Globally, Aggregating Locally: A Scalable Reinforcement Learning Framework for Networked System](https://github.com/RS2002/k-hop-CMAT)
 
 2. **LLM/NLP:** 
 
