@@ -66,9 +66,11 @@ Thanks to my lab mates from the group of [Prof. Guangxu Zhu](https://sites.googl
 
 2. **Music Generation:**
 
+   **[Image2Music]** [Zero-Effort Image-to-Music Generation: An Interpretable RAG-Based VLM Approach **(ICMR 2026)**](https://github.com/RS2002/Image2Music)
+
    **[PianoBART]** [PianoBART: Symbolic Piano Music Understanding and Generating with Large-Scale Pre-Training **(ICME 2024 oral)**](https://github.com/RS2002/PianoBart)
 
-   **[Image2Music]** [Zero-Effort Image-to-Music Generation: An Interpretable RAG-Based VLM Approach **(ICMR 2026)**](https://github.com/RS2002/Image2Music)
+   **[PianoBART2]** [PianoBART-Merge](https://github.com/RS2002/PianoBART2)
 
 3. **Stage Light Control:**
 
@@ -86,7 +88,12 @@ Thanks to my lab mates from the group of [Prof. Guangxu Zhu](https://sites.googl
 
    **[k-hop CMAT]** [Sensing Globally, Aggregating Locally: A Scalable Reinforcement Learning Framework for Networked System](https://github.com/RS2002/k-hop-CMAT)
 
-2. **LLM/NLP:** 
+   **[MA-USFA]** [Should Cooperative Policies Be Composed Jointly or Per-Agent? An Adaptive Successor-Feature Solution for Transfer in MARL](https://github.com/RS2002/MA-USFA)
+
+2. **ML:**
+   **[Mul-Net]** [Low-Interaction-Rank Learning: Unifying Multiplicative Dual-Encoder Heads](https://github.com/RS2002/Mul-Net)
+
+3. **LLM/NLP:** 
 
    **[Evo-Denoiser]** [Optimizing Denoising Trajectories in DLLMs: A Lightweight Evolutionary Heuristic Approach](https://github.com/RS2002/Evo-Denoiser)
 
@@ -94,13 +101,13 @@ Thanks to my lab mates from the group of [Prof. Guangxu Zhu](https://sites.googl
 
    **[OpenCompass Tool]** [Customized-OpenCompass-API **(Tool)**](https://github.com/RS2002/Customized-OpenCompass-API)
 
-3. **Time Series:** 
+4. **Time Series:** 
 
    **[ARL]** [Modelling the 5G Energy Consumption using Real-world Data: Energy Fingerprint is All You Need **(GLOBECOM WKSHPS 2025)**](https://github.com/RS2002/ARL)
 
    **[DL4Finance]** [Label Unbalance in High-frequency Trading **(Technical Report)**](https://github.com/RS2002/Label-Unbalance-in-High-Frequency-Trading)
 
-4. **Robot RL**:
+5. **Robotics**:
 
    Thanks to [‪Mr. Zitao Zhang](https://scholar.google.com/citations?user=9-qBwHoAAAAJ&hl=en) from the group of [Prof. Kai Huang](https://www.usilab.cn/team/huangkai/), for leading me into academic research at my earliest stage and guiding my bachelor thesis. The codes are all built on his previous work with the robot designed by the group.
 
