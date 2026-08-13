@@ -91,6 +91,7 @@ Thanks to my lab mates from the group of [Prof. Guangxu Zhu](https://sites.googl
    **[MA-USFA]** [Should Cooperative Policies Be Composed Jointly or Per-Agent? An Adaptive Successor-Feature Solution for Transfer in MARL](https://github.com/RS2002/MA-USFA)
 
 2. **ML:**
+
    **[Mul-Net]** [Low-Interaction-Rank Learning: Unifying Multiplicative Dual-Encoder Heads](https://github.com/RS2002/Mul-Net)
 
 3. **LLM/NLP:** 
