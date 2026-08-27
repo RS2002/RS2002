@@ -22,6 +22,8 @@ Thanks to my lab mates from the group of [Prof. Sen Li](https://www.smartcityhku
 
    **[Scale-OSPO]** [OSPO: One-Step Policy Optimization for Real-Time Order Assignment on Ride-Sharing Platforms with Autonomous Vehicles](https://github.com/RS2002/Scale-OSPO)
 
+   **[RideSkill]** [RideSkill: A Hierarchical Algorithm for Generalized Ride Sharing with LLM-Driven Automatic Evolution](https://github.com/RS2002/RideSkill)
+
    **[RideGym]** [RideGym: A Standardized Interface for Real-World Large-Scale Ride-Sharing System](https://github.com/RS2002/RideGym)
 
    **[Pre-Booked Ride-Sharing]** [Real-Time Order Assignment for Ride-Sharing Platforms with a Mixture of Pre-Booked and On-Demand Requests](https://github.com/RS2002/Prebooked-Ride-Sharing)
@@ -88,7 +90,7 @@ Thanks to my lab mates from the group of [Prof. Guangxu Zhu](https://sites.googl
 
    **[k-hop CMAT]** [Sensing Globally, Aggregating Locally: A Scalable Reinforcement Learning Framework for Networked System](https://github.com/RS2002/k-hop-CMAT)
 
-   **[MA-USFA]** [Should Cooperative Policies Be Composed Jointly or Per-Agent? An Adaptive Successor-Feature Solution for Transfer in MARL](https://github.com/RS2002/MA-USFA)
+   **[MA-USFA]** [Is Per-Agent Policy Composition Safe? Rethinking Successor-Feature Transfer in Cooperative Multi-Agent Reinforcement Learning](https://github.com/RS2002/MA-USFA)
 
 2. **ML:**
 
