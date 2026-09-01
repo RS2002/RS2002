@@ -52,8 +52,6 @@ Thanks to my lab mates from the group of [Prof. Guangxu Zhu](https://sites.googl
 
    **[CSI-BERT2]** [CSI-BERT2: A BERT-Inspired Framework for Efficient CSI Prediction and Recognition in Wireless Communication and Sensing **(IEEE TMC)**](https://github.com/RS2002/CSI-BERT2)
 
-   **[CSI-BERT3]** [CSI-BERT3: Foundation Model for Wireless Sensing](https://github.com/RS2002/CSI-BERT3)
-
 3. **Wi-Fi Sensing System:**
 
    **[LoFi]** [LoFi: Vision-Aided Label Generator for Wi-Fi Localization and Tracing **(GLOBECOM WKSHPS 2025)**](https://github.com/RS2002/LoFi)
@@ -71,8 +69,6 @@ Thanks to my lab mates from the group of [Prof. Guangxu Zhu](https://sites.googl
    **[Image2Music]** [Zero-Effort Image-to-Music Generation: An Interpretable RAG-Based VLM Approach **(ICMR 2026)**](https://github.com/RS2002/Image2Music)
 
    **[PianoBART]** [PianoBART: Symbolic Piano Music Understanding and Generating with Large-Scale Pre-Training **(ICME 2024 oral)**](https://github.com/RS2002/PianoBart)
-
-   **[PianoBART2]** [PianoBART-Merge](https://github.com/RS2002/PianoBART2)
 
 3. **Stage Light Control:**
 
