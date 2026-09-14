@@ -26,7 +26,7 @@ Thanks to my lab mates from the group of [Prof. Sen Li](https://www.smartcityhku
 
    **[RideGym]** [RideGym: A Standardized Interface for Real-World Large-Scale Ride-Sharing System](https://github.com/RS2002/RideGym)
 
-   **[Pre-Booked Ride-Sharing]** [Real-Time Order Assignment for Ride-Sharing Platforms with a Mixture of Pre-Booked and On-Demand Requests](https://github.com/RS2002/Prebooked-Ride-Sharing)
+   **[Pre-Booked Ride-Sharing]** [Real-Time Order Assignment for Ride-Sharing Platforms with a Mixture of Pre-Booked and On-Demand Requests **(Transportation Research Part C)**](https://github.com/RS2002/Prebooked-Ride-Sharing)
 
    **[Travel-Route-Recommendation]** [Prediction and Management of Tourist Coach Traffic based on Real-Time GPS Data **(HKSTS Project 2025)**](https://github.com/RS2002/Coach-Fleet-Itinerary-Planning)
 
