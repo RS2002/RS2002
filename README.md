@@ -18,7 +18,7 @@ Thanks to my lab mates from the group of [Prof. Sen Li](https://www.smartcityhku
 
    **[MA2SA]** [Beyond Multi‑Agent Reinforcement Learning: Scalable Centralized Control for Large-Scale Dynamic Trip-Vehicle Assignment](https://github.com/RS2002/MA2SA)
 
-   **[OSPO]** [One Step is Enough: Multi-Agent Reinforcement Learning based on One-Step Policy Optimization for Order Dispatch on Ride-Sharing Platforms](https://github.com/RS2002/OSPO)
+   **[OSPO]** [One Step is Enough: Multi-Agent Reinforcement Learning based on One-Step Policy Optimization for Order Dispatch on Ride-Sharing Platforms **(NeurIPS 2026)**](https://github.com/RS2002/OSPO)
 
    **[Scale-OSPO]** [OSPO: One-Step Policy Optimization for Real-Time Order Assignment on Ride-Sharing Platforms with Autonomous Vehicles](https://github.com/RS2002/Scale-OSPO)
 
@@ -74,7 +74,7 @@ Thanks to my lab mates from the group of [Prof. Guangxu Zhu](https://sites.googl
 
    **[Skip-BART]** [Automatic Stage Lighting Control: Is it a Rule-Driven Process or Generative Task? **(ICLR 2026)**](https://github.com/RS2002/Skip-BART)
    
-   **[SeqLight]** [Stage Light is Sequence²: Multi-Light Control via Imitation Learning](https://github.com/RS2002/SeqLight)
+   **[SeqLight]** [Stage Light is Sequence²: Multi-Light Control via Imitation Learning **(NeurIPS 2026)**](https://github.com/RS2002/SeqLight)
 
 #### D. Deep Learning
 
